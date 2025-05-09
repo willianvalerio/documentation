@@ -49,7 +49,7 @@ spec:
       enabled: true
       useClusterChecksRunners: true
   override:
-    clusterAgent:
+    clusterChecksRunner:
       replicas: 2
 ```
 
